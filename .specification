@@ -1,7 +1,7 @@
 --- !ruby/object:Gem::Specification 
 name: apn_on_rails
 version: !ruby/object:Gem::Version 
-  version: 0.3.2
+  version: 0.5.2
 platform: ruby
 authors: 
 - markbates
@@ -9,7 +9,7 @@ autorequire:
 bindir: bin
 cert_chain: []
 
-date: 2010-01-26 00:00:00 -05:00
+date: 2015-03-24 00:00:00 -01:00
 default_executable: 
 dependencies: 
 - !ruby/object:Gem::Dependency 
